@@ -1,0 +1,9 @@
+{
+  "libraryEventId": null,
+  "libraryEventType": "NEW",
+  "book": {
+    "bookId": 143,
+    "bookName": "Love is Blind",
+    "bookAuthor": "The Blind"
+  }
+}
